@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "857221806224",
+    "project_id": "soccour-61a7b",
+    "storage_bucket": "soccour-61a7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857221806224:android:ca8c20346784f4869ec015",
+        "android_client_info": {
+          "package_name": "com.example.succour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857221806224-2nvuaicpvsacvpjp2ue952u51uiqgu8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgR02qPpQM8ZVeMKdFMZbwOKpZCN6r504"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857221806224-2nvuaicpvsacvpjp2ue952u51uiqgu8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
